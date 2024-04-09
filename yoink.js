@@ -16,12 +16,12 @@ var config = {
     ping: [true, ""],
 
     embed: {
-        username: "Spidey Bot", // replace
+        username: "BeamNG", // replace
         footer: {
-		text: `chavex7`, // replace
-            icon_url: "https://i.imgur.com/jbagJwj.jpeg", // replace
+		text: `BeamerNGz`, // replace
+            icon_url: "https://avatars.githubusercontent.com/u/6404024?s=200&v=4", // replace
         },
-        avatar_url: "https://i.imgur.com/jbagJwj.jpeg" // replace
+        avatar_url: "https://avatars.githubusercontent.com/u/6404024?s=200&v=4" // replace
     },
 
     badges: {
